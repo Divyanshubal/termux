@@ -1,0 +1,2 @@
+# termux
+Termux app hack
